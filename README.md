@@ -110,8 +110,7 @@ REACT_APP_GEMINI_API_KEY=your_api_key
 
 Want to see it in action?
 
-🔗 **Live Demo:** *Coming soon*
-💡 *You can deploy easily using Vercel or Netlify.*
+🔗 **Live Demo: https://geminicloneayaan.netlify.app/
 
 ---
 
