@@ -3,7 +3,7 @@
 A sleek and responsive Gemini 2.0 clone built with **React** and powered by the **Gemini 2.0 API**.  
 Experience real-time AI interaction with a smooth UI, search history, and intuitive features.
 
-![Gemini Clone Banner](./assets/banner.png)
+![Gemini Clone Banner](main Gemini.png)
 
 ---
 
