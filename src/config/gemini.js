@@ -11,7 +11,7 @@ HarmBlockThreshold,
 
 const MODEL_NAME = "gemini-2.0-flash";
 
-const API_KEY = "AIzaSyCLnqKemPKKrtkzmp715mCPCpfO2LdH0f0";
+const API_KEY = "ENTER YOUR API KEY";
 
 async function runChat(prompt) {
 
